@@ -14,6 +14,7 @@ export default {
     HelloWorld
   },
   mounted() {
+    debugger
     console.log(2);
   }
 };
